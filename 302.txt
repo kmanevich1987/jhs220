@@ -1,0 +1,14 @@
+<html>
+<head> 
+
+<meta name="studentconfig" contents="{ 'lcs_host':'10.65.97.90', 'lcs_port':8080, 'change_channel':false, 'channel':302, 'full_screen_thumbnail':true, 'allow_prefs':false, 'student_privacy':false }">  	
+<meta http-equiv="refresh" content="1;URL=http://parent-portal.pershing220.org/">   	
+
+</head>
+<body>
+	
+Redirecting to http://parent-portal.pershing220.org/
+
+</body>
+</html>
+
